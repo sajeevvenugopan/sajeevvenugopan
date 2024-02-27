@@ -2,7 +2,7 @@
 - 👀 I’m learning new things and challenge myself to new achievements
 - 🌱 I’m currently learning Containerizing of apps and messaging services
 - 📫 How to reach me sajeevvenugopan@gmail.com
-- 😄 Pronouns: Sajeev
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Sports lover and Foodie
 
 <!---
