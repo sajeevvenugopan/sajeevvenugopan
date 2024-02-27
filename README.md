@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sajeevvenugopan
+- 👋 Hi, I’m Sajeev venugopan
 - 👀 I’m interested in Application development
 - 🌱 I’m currently learning Containerizing of apps and messaging services
 - 📫 How to reach me sajeevvenugopan@gmail.com
